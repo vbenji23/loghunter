@@ -1,3 +1,6 @@
+avis au curieux notre projet et en maintenance veuiller avoir du respect et attendre calmemant que nous reparions les problemmes aucasioner 
+
+
 # 🛡️ LogHunter
 
 Détecteur d'attaques dans les fichiers de logs, écrit en Python.
