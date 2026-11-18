@@ -1,0 +1,7 @@
+Nov 18 10:01:12 server sshd[1201]: Failed password for root from 192.168.1.50 port 52311 ssh2
+Nov 18 10:01:14 server sshd[1202]: Failed password for root from 192.168.1.50 port 52312 ssh2
+Nov 18 10:01:16 server sshd[1203]: Failed password for admin from 192.168.1.50 port 52313 ssh2
+Nov 18 10:01:18 server sshd[1204]: Failed password for root from 192.168.1.50 port 52314 ssh2
+Nov 18 10:01:20 server sshd[1205]: Failed password for root from 192.168.1.50 port 52315 ssh2
+Nov 18 10:05:00 server sshd[1300]: Accepted password for benjamin from 10.0.0.5 port 40000 ssh2
+Nov 18 10:07:33 server sshd[1310]: Failed password for benjamin from 10.0.0.5 port 40001 ssh2
